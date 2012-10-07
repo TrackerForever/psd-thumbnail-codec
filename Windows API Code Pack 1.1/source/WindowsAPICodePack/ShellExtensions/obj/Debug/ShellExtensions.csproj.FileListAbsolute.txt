@@ -1,0 +1,3 @@
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Debug\ResolveAssemblyReference.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.Resources.LocalizedMessages.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Debug\ShellExtensions.csproj.GenerateResource.Cache

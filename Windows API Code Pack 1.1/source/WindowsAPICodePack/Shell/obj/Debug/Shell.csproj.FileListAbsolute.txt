@@ -1,0 +1,17 @@
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Controls\CommandLinkWPF.baml
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\ExplorerBrowser\ExplorerBrowser.WPF.baml
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Controls\CommandLinkWPF.g.cs
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\ExplorerBrowser\ExplorerBrowser.WPF.g.cs
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell_MarkupCompile.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.g.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.Resources.LocalizedMessages.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.Shell.XML
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.pdb

@@ -1,0 +1,8 @@
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\binaries\Microsoft.WindowsAPICodePack.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\binaries\Microsoft.WindowsAPICodePack.pdb
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.Resources.LocalizedMessages.resources
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Core.csproj.GenerateResource.Cache
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Release\Microsoft.WindowsAPICodePack.pdb
