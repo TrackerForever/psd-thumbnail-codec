@@ -1,0 +1,11 @@
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.XML
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\Debug\ResolveAssemblyReference.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\Debug\Microsoft.WindowsAPICodePack.Sensors.Resources.LocalizedMessages.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\Debug\Sensors.csproj.GenerateResource.Cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\Debug\Microsoft.WindowsAPICodePack.Sensors.pdb

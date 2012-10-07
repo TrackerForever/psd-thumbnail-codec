@@ -1,0 +1,17 @@
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Controls\CommandLinkWPF.baml
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\ExplorerBrowser\ExplorerBrowser.WPF.baml
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Controls\CommandLinkWPF.g.cs
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\ExplorerBrowser\ExplorerBrowser.WPF.g.cs
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell_MarkupCompile.cache
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.g.resources
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.Resources.LocalizedMessages.resources
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csproj.GenerateResource.Cache
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\binaries\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\binaries\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csprojResolveAssemblyReference.cache
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.pdb

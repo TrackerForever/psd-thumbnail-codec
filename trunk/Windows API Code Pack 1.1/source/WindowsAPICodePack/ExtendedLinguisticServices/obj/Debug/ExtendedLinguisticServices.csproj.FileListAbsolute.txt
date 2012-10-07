@@ -1,0 +1,8 @@
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\ResolveAssemblyReference.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.Resources.LocalizedMessages.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\ExtendedLinguisticServices.csproj.GenerateResource.Cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb

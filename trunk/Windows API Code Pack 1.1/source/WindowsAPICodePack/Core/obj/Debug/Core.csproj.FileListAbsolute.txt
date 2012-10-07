@@ -1,0 +1,8 @@
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.XML
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Debug\ResolveAssemblyReference.cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.Resources.LocalizedMessages.resources
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Debug\Core.csproj.GenerateResource.Cache
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.dll
+D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Debug\Microsoft.WindowsAPICodePack.pdb
