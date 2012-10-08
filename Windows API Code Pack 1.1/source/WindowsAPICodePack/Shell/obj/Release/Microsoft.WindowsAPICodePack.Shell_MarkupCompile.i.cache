@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Source\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\
 Microsoft.WindowsAPICodePack.Shell
 none
 false
@@ -13,7 +13,7 @@ TRACE
 2-1321229281
 
 157-1709613569
-13-429718888
+12-221070279
 Controls\CommandLinkWPF.xaml;ExplorerBrowser\ExplorerBrowser.WPF.xaml;
 
 False

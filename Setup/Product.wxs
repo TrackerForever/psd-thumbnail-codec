@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Product Id="A3988ABB-D838-4022-ABA1-42442F2D3A8F" Name="Kulahci Thumbnail Handler" Language="1033" Version="1.0.0.0" Manufacturer="Kulahci.com" UpgradeCode="A3988ABB-D838-4022-ABA1-42442F2D3A8F">
+        <Package Id="A3988ABB-D838-4022-ABA1-42442F2D3A8F" InstallerVersion="200" Compressed="yes" InstallScope="perMachine" Platform="x64" />
+        <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+        <MediaTemplate  EmbedCab="yes"/>
+        <Feature Id="ProductFeature" Title="Kulahci Thumbnail Handler" Level="1">
+            <ComponentGroupRef Id="ProductComponents" />
+        </Feature>
+        <UI />
+      <PropertyRef Id="NETFRAMEWORK40CLIENT"/>
+      <Condition Message='This setup requires the .NET Framework 4.0 client profile installed.'>
+        <![CDATA[Installed OR NETFRAMEWORK40CLIENT]]>
+      </Condition>
+
+      <Feature Id="Features" Title="Features" Level="1">
+        <ComponentRef Id="Complete" />
+        <ComponentRef Id="MyGACControl"/>
+      </Feature>
+    </Product>
+    <Fragment>
+        <Directory Id="TARGETDIR" Name="SourceDir">
+            <Directory Id="ProgramFiles64Folder">
+              <Directory Id="GAC" Name="GAC">
+                <Component Id="MyGACControl" Guid="55857611-A13E-51ED-897B-A78830F68ADC" Win64="yes">
+                  <!-- Registering assembly in GAC -->
+                  <File Id="CSShellExtThumbnailHandler" Name="CSShellExtThumbnailHandler.dll" 
+                        src="C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\CSShellExtThumbnailHandler.dll" 
+                        KeyPath="yes" Assembly=".net"></File>                  
+                </Component>
+              </Directory>
+              
+              <Directory Id="INSTALLFOLDER" Name="Kulahci Thumbnail Handler">                  
+                  <Component Id="Complete" Guid="A3988ABB-D838-4022-ABA1-42442F2D3A8F" Win64="yes">
+                    
+                    <File Id="Microsoft.WindowsAPICodePack" Name="Microsoft.WindowsAPICodePack.dll" src="C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.dll"></File>
+                    <File Id="Microsoft.WindowsAPICodePack.Shell" Name="Microsoft.WindowsAPICodePack.Shell.dll" src="C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.Shell.dll"></File>
+                    <File Id="Microsoft.WindowsAPICodePack.ShellExtensions" Name="Microsoft.WindowsAPICodePack.ShellExtensions.dll" src="C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.ShellExtensions.dll"></File>
+                  </Component>  
+              </Directory>
+            </Directory>
+        </Directory>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+            <!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+            <!-- <Component Id="ProductComponent"> -->
+            <!-- TODO: Insert files, registry keys, and other resources here. -->
+            <!-- </Component> -->
+        </ComponentGroup>
+      <ComponentGroup Id="ProductComponentsGac" Directory="GAC">
+        <!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+        <!-- <Component Id="ProductComponent"> -->
+        <!-- TODO: Insert files, registry keys, and other resources here. -->
+        <!-- </Component> -->
+      </ComponentGroup>
+    </Fragment>
+
+</Wix>
