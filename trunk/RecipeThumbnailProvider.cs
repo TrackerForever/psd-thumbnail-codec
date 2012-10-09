@@ -29,8 +29,8 @@ namespace CSShellExtThumbnailHandler
 {
     [ClassInterface(ClassInterfaceType.None)]
     [Guid("8B95D7DF-2DB4-4A8D-8BE0-DBC986D385BD"), ComVisible(true)]
-    [ThumbnailProvider("OzzPdfThumbnailProvider", ".psd", DisableProcessIsolation=true)]
-    public class OzzPdfThumbnailProvider : ThumbnailProvider, IThumbnailFromFile
+    [ThumbnailProvider("KulahciThumbnailProvider", ".psd", DisableProcessIsolation=true)]
+    public class KulahciPsdThumbnailProvider : ThumbnailProvider, IThumbnailFromFile
     {
         #region IThumbnailFromStream Members
 
