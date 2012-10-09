@@ -27,29 +27,28 @@ using System.Runtime.InteropServices;
 
 namespace CSShellExtThumbnailHandler
 {
-    [RunInstaller(true), ComVisible(false)]
-    public partial class ProjectInstaller : Installer
+    //[RunInstaller(true), ComVisible(false)]
+    public partial class ProjectInstaller //: Installer
     {
         public ProjectInstaller()
-        {
-            InitializeComponent();
+        {            
         }
 
-        public override void Install(IDictionary stateSaver)
+        public void Install() //IDictionary stateSaver)
         {
-            base.Install(stateSaver);
+            //base.Install(stateSaver);
 
             // Call RegistrationServices.RegisterAssembly to register the classes in 
             // the current managed assembly to enable creation from COM.
             RegistrationServices regService = new RegistrationServices();
             regService.RegisterAssembly(
                 this.GetType().Assembly,
-                AssemblyRegistrationFlags.SetCodeBase);
+                AssemblyRegistrationFlags.SetCodeBase);            
         }
 
-        public override void Uninstall(IDictionary savedState)
+        public void Uninstall() //IDictionary savedState)
         {
-            base.Uninstall(savedState);
+           // base.Uninstall(savedState);
 
             // Call RegistrationServices.UnregisterAssembly to unregister the classes 
             // in the current managed assembly.
