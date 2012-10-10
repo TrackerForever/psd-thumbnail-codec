@@ -1,0 +1,7 @@
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\bin\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\bin\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\x86\Release\ExtendedLinguisticServices.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.Resources.LocalizedMessages.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\x86\Release\ExtendedLinguisticServices.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ExtendedLinguisticServices\obj\x86\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb

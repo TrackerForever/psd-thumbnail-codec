@@ -1,0 +1,9 @@
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\x64\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\x64\Release\Microsoft.WindowsAPICodePack.Sensors.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\x64\Release\Sensors.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\x64\Release\Microsoft.WindowsAPICodePack.Sensors.Resources.LocalizedMessages.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\x64\Release\Sensors.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\x64\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Sensors\obj\x64\Release\Microsoft.WindowsAPICodePack.Sensors.pdb

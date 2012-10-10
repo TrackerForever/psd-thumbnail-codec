@@ -1,0 +1,7 @@
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\x64\Release\Core.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\x64\Release\Microsoft.WindowsAPICodePack.Resources.LocalizedMessages.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\x64\Release\Core.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\x64\Release\Microsoft.WindowsAPICodePack.pdb

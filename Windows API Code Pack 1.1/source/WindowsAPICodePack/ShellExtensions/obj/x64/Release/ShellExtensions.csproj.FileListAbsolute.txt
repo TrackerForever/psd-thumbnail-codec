@@ -1,3 +1,14 @@
 D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\ResolveAssemblyReference.cache
 D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.Resources.LocalizedMessages.resources
 D:\c\EskiDisk\CSShellExtThumbnailHandler\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\ShellExtensions.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\ShellExtensions.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.Resources.LocalizedMessages.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\ShellExtensions.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb

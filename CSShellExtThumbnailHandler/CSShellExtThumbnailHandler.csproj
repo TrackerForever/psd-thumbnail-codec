@@ -103,17 +103,17 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, PublicKeyToken=6c10b55a26e645f9, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x86\Release\Microsoft.WindowsAPICodePack.dll</HintPath>
+      <HintPath>..\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=6c10b55a26e645f9, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+      <HintPath>..\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.WindowsAPICodePack.ShellExtensions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+    <Reference Include="Microsoft.WindowsAPICodePack.ShellExtensions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=6c10b55a26e645f9, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x86\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll</HintPath>
+      <HintPath>..\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration.Install" />
