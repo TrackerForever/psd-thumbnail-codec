@@ -1,0 +1,12 @@
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\CSShellExtThumbnailHandler.dll
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\CSShellExtThumbnailHandler.pdb
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\Release\x64\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\obj\x64\ReleaseX64\CSShellExtThumbnailHandler.Resource1.resources
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\obj\x64\ReleaseX64\CSShellExtThumbnailHandler.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\obj\x64\ReleaseX64\CSShellExtThumbnailHandler.dll
+C:\Source\psd-thumbnail-codec\CSShellExtThumbnailHandler\obj\x64\ReleaseX64\CSShellExtThumbnailHandler.pdb

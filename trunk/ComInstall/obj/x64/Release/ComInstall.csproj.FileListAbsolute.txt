@@ -1,0 +1,13 @@
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\ComInstall.exe
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\ComInstall.pdb
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\CSShellExtThumbnailHandler.dll
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\CSShellExtThumbnailHandler.pdb
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\psd-thumbnail-codec\ComInstall\bin\x64\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\ComInstall\obj\x64\Release\ComInstall.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\ComInstall\obj\x64\Release\ComInstall.exe
+C:\Source\psd-thumbnail-codec\ComInstall\obj\x64\Release\ComInstall.pdb

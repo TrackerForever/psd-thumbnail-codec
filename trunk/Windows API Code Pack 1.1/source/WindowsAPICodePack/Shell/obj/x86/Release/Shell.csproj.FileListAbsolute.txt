@@ -1,0 +1,15 @@
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\x86\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\x86\Release\Microsoft.WindowsAPICodePack.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\x86\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Shell.csprojResolveAssemblyReference.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Controls\CommandLinkWPF.baml
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\ExplorerBrowser\ExplorerBrowser.WPF.baml
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Controls\CommandLinkWPF.g.cs
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\ExplorerBrowser\ExplorerBrowser.WPF.g.cs
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Microsoft.WindowsAPICodePack.Shell_MarkupCompile.cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Microsoft.WindowsAPICodePack.Shell.g.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Microsoft.WindowsAPICodePack.Shell.Resources.LocalizedMessages.resources
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Shell.csproj.GenerateResource.Cache
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Source\psd-thumbnail-codec\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\x86\Release\Microsoft.WindowsAPICodePack.Shell.pdb
