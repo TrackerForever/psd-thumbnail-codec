@@ -66,8 +66,8 @@ begin
 	initwinversion();
   	// if no .netfx 4.0 is found, install the client (smallest)
 #ifdef use_dotnetfx40
-	if (not netfxinstalled(NetFx40Client, '') and not netfxinstalled(NetFx40Full, '')) then
-		dotnetfx40client();
+	if not netfxinstalled(NetFx40Full, '') then
+		dotnetfx40full();
 #endif
 	Result := true;
 end;

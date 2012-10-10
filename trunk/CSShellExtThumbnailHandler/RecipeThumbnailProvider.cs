@@ -36,7 +36,9 @@ namespace CSShellExtThumbnailHandler
 
         public Bitmap ConstructBitmap(Stream stream, int sideSize)
         {
-            return null;
+            File.WriteAllText("c:\\sil.txt", "ConstructBitmap(Stream stream, int sideSize) init");
+            // return null;
+            
             try
             {
                // MessageBox.Show("1. adim");   stream.Position = 0;
@@ -79,7 +81,7 @@ namespace CSShellExtThumbnailHandler
         #endregion
 
         public Bitmap ConstructBitmap(FileInfo info, int sideSize)
-        {
+        {            
             CPSD psd = new CPSD();
             psd.Load(info.FullName);
                 //MessageBox.Show(psd.IsThumbnailIncluded().ToString());

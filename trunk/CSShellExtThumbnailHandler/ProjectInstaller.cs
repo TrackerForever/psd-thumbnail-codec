@@ -40,7 +40,9 @@ namespace CSShellExtThumbnailHandler
 
             // Call RegistrationServices.RegisterAssembly to register the classes in 
             // the current managed assembly to enable creation from COM.
+            Console.WriteLine("creating registration services");
             RegistrationServices regService = new RegistrationServices();
+            Console.WriteLine("registering assembly: " + this.GetType().ToString());
             regService.RegisterAssembly(
                 this.GetType().Assembly,
                 AssemblyRegistrationFlags.SetCodeBase);            
