@@ -107,6 +107,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSShellExtThumbnailHandler\CSShellExtThumbnailHandler.csproj">
+      <Project>{764d46aa-3e8a-4c38-8fcb-92ca0d83497a}</Project>
+      <Name>CSShellExtThumbnailHandler</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
