@@ -10,13 +10,18 @@ namespace ComInstall
     {
         static void Main(string[] args)
         {
-            if (args.Length <= 1)
+            Console.WriteLine("entering:" + args.Length);
+            if (args.Length <= 0)
                 return;
-            ProjectInstaller tmpInstaller = new ProjectInstaller();            
-            if (args[1] == "uninstall")
-              tmpInstaller.Uninstall();
+            Console.WriteLine("creating projectinstaler");
+            ProjectInstaller tmpInstaller = new ProjectInstaller();
+            if (args[0] == "uninstall")
+                tmpInstaller.Uninstall();
             else
-              tmpInstaller.Install();
+            {
+                Console.WriteLine("installing");
+                tmpInstaller.Install();
+            }
         }
     }
 }
