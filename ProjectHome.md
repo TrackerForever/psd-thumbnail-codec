@@ -1,0 +1,1 @@
+That codec can help view psd file thumbs in the windows explorer.
